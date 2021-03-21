@@ -1,35 +1,25 @@
 # Overview
 
-This program is a simple example of using cloud databases. once you've made your database connect it by filling in the mongo cluster information.
+This program is a simple example of using cloud databases. once you've made your database connect it by filling in the mongo cluster information. Start and enter options(the items in perenthesis) to use it.
+This program was made as an introduction to cloud databases for myself.
 
-start and enter options(the items in perenthesis) to use it.
-{Describe your purpose for writing this software.}
-
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running, a walkthrough of the code, and a view of the cloud database.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/itNK-QBpNto)
 
 # Cloud Database
 
-{Describe the cloud database you are using.}
-
-{Describe the structure of the database that you created.}
+This project uses Mongo DB. It uses a cluster and the database inside it.
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used and any libraries.}
+Fof this project I used python to connect to mongodb through the pymongo library.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Tech with Tim youtube](https://www.youtube.com/watch?v=rE_bJl2GAY8)
+* [Mongo DB Documentation](https://docs.mongodb.com/)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* Add all the character trait slots
+* better display for characters
+* Player specific login
